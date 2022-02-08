@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	""
+	"github.com/toreah/Rivercrossing2/event"
 )
+
 func main() {
-	fmt.Println(event.PutInBoat)("rev"))
+
 }
